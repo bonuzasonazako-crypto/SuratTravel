@@ -1,1 +1,7 @@
-
+ชื่อ-สกุล
+ระดับชั้น
+เเผนกวิชา
+เลขที่
+วันที่สอบ
+ชื่อ Repository: devops-final-exam-stdent
+ลิ้งก์ GitHub Repository: 
