@@ -1,7 +1,7 @@
-ชื่อ-สกุล
-ระดับชั้น
-เเผนกวิชา
-เลขที่
-วันที่สอบ
-ชื่อ Repository: devops-final-exam-stdent
-ลิ้งก์ GitHub Repository: 
+ชื่อ-สกุล: เถลิงศักดิ์ จันทร์ปาน
+ระดับชั้น: ปวส.1/2
+แผนกวิชา: เทคโนโลยีสารสนเทศ
+เลขที่: 020
+วันที่สอบ: วันที่ 19 กันยายน พ.ศ.
+ชื่อ Repository: devops-final-exam-student
+ลิงก์ GitHub Repository: __
